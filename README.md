@@ -1,1 +1,1 @@
-Тестовое задание - построить такой же график как здесь https://recharts.org/en-US/examples/SimpleLineChart , с  теми же данными, но по определенному условию выделить точки на графике. Результат можно посмотреть здесь https://recharts.org/en-US/examples/SimpleLineChart
+Тестовое задание - построить такой же график как здесь https://recharts.org/en-US/examples/SimpleLineChart , с  теми же данными, но по определенному условию выделить точки на графике. Результат можно посмотреть здесь https://65t57j-5173.csb.app/
